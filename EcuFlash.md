@@ -1,0 +1,8 @@
+# Introduction #
+
+EcuFlash is probably the most widely used free tool for flashing Subaru and Mitsubishi ECU's.  It was written by Colby at Tactrix with (apparently) quite a bit of help from the community.
+
+
+# Details #
+
+EcuFlash was always touted as an Open Source (GPLv2) project, but the code was never released except to a select few individuals.  We managed to get our hands on a version circa 2006, and since it was indeed released under the GPL, we have forked it here and hopefully this will allow more individuals to better understand the inner workings of their car's ECU.
